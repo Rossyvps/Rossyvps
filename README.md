@@ -1,10 +1,22 @@
-## Hi there 👋
+## Hi there, I am Rossy Pino 👋
 
-:computer:"TSU en Electonina"
+### Sobre mi !
 
-:student:"Estudiante de diseño y desarrollo web"
+- 🎓 Soy TSU en Electronica
 
-:location:"Venezuela"
+- 💻 Estudiante de Desarrollo Web & Diseño UI/UX
+
+- 🌎 Desde: Venezuela
+
+## 🧠 Skills en progreso
+
+- HTML • CSS • JavaScript
+- Responsive Design
+- Git y GitHub
+- SEO • Hosting • DNS
+- WooCommerce Shortcodes & Endpoints
+- Figma
 
 ### Vias de contacto
-:email:"rpino.web95@gmail.com"
+
+**✉️ Email:** [rpino.web95@gmail.com](mailto:rpino.web95@gmail.com)
